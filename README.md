@@ -1,3 +1,6 @@
+Portfolio optimization using the Markowitz mean–variance framework applied to a real personal portfolio.
+
+
 ## Methodology
 
 The optimization framework follows the classical Markowitz portfolio theory.
