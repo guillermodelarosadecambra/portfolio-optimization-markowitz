@@ -1,6 +1,6 @@
 # Portfolio Optimization using the Markowitz Model
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](TU_LINK_DE_COLAB)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([TU_LINK_DE_COLAB](https://colab.research.google.com/drive/1RI7BYmpAG5TeGhL84UOtiLUvkdrq7k1_?usp=sharing))
 
 Portfolio optimization using the Markowitz mean–variance framework applied to a real personal portfolio.
 
