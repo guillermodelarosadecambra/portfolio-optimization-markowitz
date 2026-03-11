@@ -1,5 +1,7 @@
 Portfolio optimization using the Markowitz mean–variance framework applied to a real personal portfolio.
+## Efficient Frontier
 
+![Efficient Frontier](efficient_frontier.png)
 
 ## Methodology
 
