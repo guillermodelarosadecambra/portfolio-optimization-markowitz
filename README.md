@@ -1,2 +1,14 @@
-# portfolio-optimization-markowitz
-Portfolio optimization using the Markowitz mean-variance framework with real market data from Yahoo Finance.
+## Methodology
+
+The optimization framework follows the classical Markowitz portfolio theory.
+
+The portfolio variance is defined as:
+
+$$
+\sigma_p^2 = w^T \Sigma w
+$$
+
+where:
+
+- **w** = vector of portfolio weights  
+- **Σ** = covariance matrix of asset returns
