@@ -75,3 +75,33 @@ and evaluates them in terms of:
 - CVXPY
 - Matplotlib
 - Yahoo Finance API
+
+
+## Project Structure
+
+portfolio-optimization-markowitz
+│
+├── ibkr_portfolio_optimization.ipynb
+├── efficient_frontier.png
+└── README.md
+
+
+
+## Features
+
+- Markowitz mean–variance portfolio optimization
+- Efficient frontier construction
+- Minimum variance portfolio
+- Maximum Sharpe ratio portfolio
+- Portfolio performance metrics
+
+
+
+## Future Improvements
+
+Possible extensions of this project include:
+
+- adding transaction costs
+- incorporating risk-free rate
+- using Black–Litterman portfolio optimization
+- applying Monte Carlo portfolio simulations
